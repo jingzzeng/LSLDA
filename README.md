@@ -12,4 +12,4 @@ Note:
 2. The files "simulation1.R" to "simulation7.R" only run 2 replicates to save the execution time. The users can specify the variable "times" in the codes to change the number of replicates.
 
 ## Reference
-Zeng, J., Zhang, X. and Mai, Q. (2021+). An Efficient Convex Formulation for Reduced-Rank Linear Discriminant Analysis in High Dimensions. *Statistica Sinica*. Future paper.
+Zeng, J., Zhang, X., and Mai, Q. (2021+). An Efficient Convex Formulation for Reduced-Rank Linear Discriminant Analysis in High Dimensions. *Statistica Sinica*. Future paper.
